@@ -1,5 +1,5 @@
 # *E-Commerce Customers Segmentation*
-
+(This repo is still under development for further improvement)
 ### **Project Overview**
 This project applies **clustering techniques** to segment customers of an E-commerce platform based on their transaction history and demographic data. The goal is to group customers with similar behaviors for marketing and personalization purposes. We compare three clustering algorithms: **K-Means**, **DBSCAN**, and **Hierarchical Clustering**, and evaluate their performance using silhouette scores.
 
